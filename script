@@ -59,6 +59,7 @@ _G.on = false
     end
 end)
 
+
 Section:NewToggle("Auto Dupe Pop it {1.2Bil Cash Required}"  , "Dupe Pop It Rainbow", function(state)
     if state then
         _G.on = true
